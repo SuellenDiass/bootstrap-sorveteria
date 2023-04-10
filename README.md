@@ -6,8 +6,11 @@
     <img width="700" src="https://user-images.githubusercontent.com/102911341/230970199-59f9f303-9f4d-4e49-9b67-41d85512cebd.png">
 </p>
 
+<p align="center">Seja redirecionado à página do meu 
+<a href="https://bootstrap-sorveteria.suellensouza.repl.co " target="_blank">projeto</a></p>
+
 <p align="center">Seja redirecionado à página do 
-<a href="# " target="_blank">projeto</a></p>
+<a href="https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/ " target="_blank">projeto da mentora Michele Ambrosio</a></p>
 
 
 <p> <h1 align="center">Iniciando com seu primeiro Framework em CSS: Bootstrap</h1></p>
