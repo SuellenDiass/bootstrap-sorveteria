@@ -56,7 +56,6 @@ Curso Formação CSS Web Developer da Dio.me adminsitrado pela mentora Michele A
 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a> 
 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css" width="40" height="40"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://logospng.org/wp-content/uploads/bootstrap.png" alt="firebase" width="40" height="40"/> </a>
 
