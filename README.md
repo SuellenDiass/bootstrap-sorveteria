@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">Seja redirecionado à página do meu 
-<a href="https://bootstrap-sorveteria.suellensouza.repl.co " target="_blank">projeto</a></p>
+<a href="https://suellendiass.github.io/bootstrap-sorveteria/#" target="_blank">projeto</a></p>
 
 <p align="center">Seja redirecionado à página do 
 <a href="https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/ " target="_blank">projeto da mentora Michele Ambrosio</a></p>
